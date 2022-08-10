@@ -4,7 +4,7 @@ My Solutions of "Exercises for Programmers" in Typescript
 ### Solutions
 
 #### Ch 02: Input, Processing, and Output
-- [ ] 01: [Saying Hello](src/console/ex01.ts)
+- [x] 01: [Saying Hello](src/console/ex01.ts)
 - [ ] 02: [Counting the Number of Characters](src/console/ex02.ts)
 - [ ] 03: [Printing Quotes](src/console/ex03.ts)
 - [ ] 04: [Mad Lib](src/console/ex04.ts)
